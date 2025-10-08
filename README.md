@@ -75,4 +75,4 @@ The goal is to provide **actionable insights** into the gaming ecosystem by visu
 ## ✨ Author  
 **Muhammed Shanid KM**  
 📍 Data Analyst | Power BI | SQL | Python  
-🔗 [LinkedIn](www.linkedin.com/in/muhammed-shanid-965866303) 
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-shanid-965866303) 
