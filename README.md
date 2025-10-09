@@ -8,7 +8,7 @@
 ## 2. Short Description  
 This project is an **interactive Power BI dashboard** that analyzes **Steam game data** to uncover trends in ownership, playtime, genres, platforms, publishers, and age ratings.  
 The goal is to provide **actionable insights** into the gaming ecosystem by visualizing player engagement, platform dominance, and content distribution patterns.  
-
+analyse it and fix the demo because in preview it shows 2nd image 2 times in the screen shot part so fix it
 ---
 
 ## 3. Tech Stack  
@@ -65,14 +65,14 @@ The goal is to provide **actionable insights** into the gaming ecosystem by visu
 ### 📌 Dashboard Visuals  
 
 #### Owners & Genres by Age Rating + Median Playtime by Platform  
-![Steam Dashboard Screenshot 1](Steam_project_1.png)  
+![Steam Dashboard Screenshot 1](Steam%20project%202.png)  
 
 #### Publisher & App Distribution by Platforms  
-![Steam Dashboard Screenshot 2](Steam_project_2.png)  
+![Steam Dashboard Screenshot 2](Steam%20project%202.png)  
 
 ---
 
 ## ✨ Author  
 **Muhammed Shanid KM**  
 📍 Data Analyst | Power BI | SQL | Python  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-shanid-965866303)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-shanid-965866303) 
