@@ -1,4 +1,4 @@
-# 🎮 Steam Game Metrics Analysis (Power BI)
+#  Steam Game Metrics Analysis (Power BI)
 
 ## 1. Project Title  
 **Steam Game Metrics Dashboard & Analytics**
@@ -31,13 +31,13 @@ analyse it and fix the demo because in preview it shows 2nd image 2 times in the
 
 ## 5. Features / Highlights  
 
-### 🎯 Goal of the Dashboard  
+###  Goal of the Dashboard  
 - Explore **trends in player ownership & engagement**  
 - Compare **platform dominance (Windows, Mac, Linux)**  
 - Analyze **age-based restrictions** and content categories  
 - Visualize **publisher distribution & cross-platform releases**  
 
-### 📊 Walkthrough of Key Visuals  
+### Walkthrough of Key Visuals  
 - **Count of Owners & Genres by Age Rating**  
   Most games are rated for all audiences (age 0), and ownership is highest here. Games with higher age ratings (16, 18) have very low ownership.  
 
@@ -52,7 +52,7 @@ analyse it and fix the demo because in preview it shows 2nd image 2 times in the
   - Cross-platform publishing exists (Windows + Mac/Linux), but remains limited  
   - Pure Mac/Linux exclusives are rare  
 
-### 💡 Business Impact & Insights  
+###  Business Impact & Insights  
 - **Windows remains the primary platform** for PC gaming, driving the highest engagement and publisher support.  
 - **Cross-platform opportunities** exist but are underutilized, showing potential growth areas.  
 - **General audience games** dominate the market, meaning content aimed at all ages reaches the largest user base.  
@@ -62,17 +62,16 @@ analyse it and fix the demo because in preview it shows 2nd image 2 times in the
 
 ## 6. Screenshots / Demo  
 
-### 📌 Dashboard Visuals  
+###  Dashboard Visuals  
 
 #### Owners & Genres by Age Rating + Median Playtime by Platform  
 ![Steam Dashboard Screenshot 1](Steam%20project%202.png)  
 
-#### Publisher & App Distribution by Platforms  
-![Steam Dashboard Screenshot 2](Steam%20project%202.png)  
+ 
 
 ---
 
-## ✨ Author  
+##  Author  
 **Muhammed Shanid KM**  
 📍 Data Analyst | Power BI | SQL | Python  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-shanid-965866303) 
